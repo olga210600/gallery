@@ -24,6 +24,7 @@ img{
     transform: translate(-50%, -50%);
     z-index: 2;
 }
+
 .showedImage{
     position: absolute;
     width: 600px;
@@ -43,6 +44,7 @@ img{
     z-index: 3;
     cursor: pointer;
 }
+
 .imageWrapper {
     position: relative;
 }
